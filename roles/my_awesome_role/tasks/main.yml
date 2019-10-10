@@ -7,6 +7,8 @@
     - vim
     - wget
     - httpd
+    - git
+    - ksh
     - httpd-tools
 
 # Configure apache
